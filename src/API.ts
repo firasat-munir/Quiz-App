@@ -1,4 +1,3 @@
-import React from "react";
 import { shuffleArray } from "./utils";
 
 export type Question={
